@@ -73,9 +73,7 @@ I'm passionate about turning data into decisions. My double major in Data Scienc
 | Project | Description | Tech |
 |---|---|---|
 | **Simple Linear Regression Simulation** | Simulation study exploring how sample size and error distributions (including heavy-tailed t(1) errors) affect regression estimates | SAS, Statistics |
-| **Project Name** | One line on the problem, your approach, and the result | Python, Pandas, Matplotlib |
-| **Project Name** | One line on the problem, your approach, and the result | SQL, Tableau |
-| **Project Name** | One line on the problem, your approach, and the result | Python, scikit-learn |
+
 
 ---
 
