@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions+%F0%9F93A8;Data+Science+%2B+Mathematics+double+major;Looking+for+a+Summer+2027+internships;Building+projects.+Learning+every+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Data+Science+%2B+Mathematics+double+major;Looking+for+a+Summer+2027+internships;Building+projects.+Learning+every+day.)](https://git.io/typing-svg)
 
 ![Status](https://img.shields.io/badge/Open_to-Summer_2027_Internships-2ea44f?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-neupane-014b70336/)
