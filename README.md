@@ -9,13 +9,13 @@ Junior | B.S. Data Science + Second Major in Mathematics
 
 ## About Me
 
-I'm passionate about turning data into decisions. My double major in Data Science and Mathematics gives me a strong foundation in statistics, modeling, and quantitative reasoning, and I'm now building the practical skills to apply it on real-world problems.
+I'm passionate about turning data into decisions. My major in Data Science and  second major in Mathematics gives me a strong foundation in statistics, modeling, and quantitative reasoning, and I'm now building the practical skills to apply it on real-world problems.
 
 - 🎓 Junior at UT Arlington (UTA)
 - 🔭 Currently building portfolio projects in analytics and machine learning
 - 📚 Currently learning: SQL, data visualization, and machine learning workflows
 - 🎯 Looking for: Summer 2027 Data Analytics / Data Science internships
-- 📫 Reach me: *add your email or LinkedIn here*
+- 📫 Reach me: *https://www.linkedin.com/in/ganesh-neupane-014b70336/*
 
 ---
 
@@ -86,7 +86,7 @@ I'm passionate about turning data into decisions. My double major in Data Scienc
 
 ## Let's Connect
 
-- 💼 LinkedIn: *your link here*
+- 💼 LinkedIn: *https://www.linkedin.com/in/ganesh-neupane-014b70336/*
 - 📧 Email: *your email here*
 
 *Open to Summer 2027 data analytics and data science internships. Let's talk!*
