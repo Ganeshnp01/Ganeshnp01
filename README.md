@@ -6,7 +6,6 @@
 
 ![Status](https://img.shields.io/badge/Open_to-Summer_2027_Internships-2ea44f?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-neupane-014b70336/)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8957e5&style=for-the-badge)
 
 </div>
 
